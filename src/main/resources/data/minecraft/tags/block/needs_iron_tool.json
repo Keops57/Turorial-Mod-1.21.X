@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:joaquinite_block",
+    "tutorialmod:joaquinite_ore",
+    "tutorialmod:deepslate_joaquinite_ore"
+  ]
+}

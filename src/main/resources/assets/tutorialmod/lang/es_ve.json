@@ -1,0 +1,20 @@
+{
+  "item.tutorialmod.ace_of_spades": "As de espadas",
+  "item.tutorialmod.sus": "SUS",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.blackinator": "Negroinator",
+
+  "item.tutorialmod.raw_joaquinite": "Joaquinita Cruda",
+  "item.tutorialmod.joaquinite": "Joaquinita",
+  "block.tutorialmod.joaquinite_block": "Bloque de Joaquinita",
+  "block.tutorialmod.joaquinite_ore": "Mineral de Joaquinita",
+  "block.tutorialmod.deepslate_joaquinite_ore": "Mineral Profundo de Joaquinita",
+  "block.tutorialmod.magic_block": "Bloque Magico",
+
+  "block.tutorialmod.casino_carpet_block": "Alfombra de Casino",
+  "block.tutorialmod.sus_block": "SUS 3D",
+
+  "itemgroup.tutorialmod.casino_items" : "Objetos de Casino",
+  "itemgroup.tutorialmod.casino_blocks" : "Bloques de Casino",
+  "itemgroup.tutorialmod.joaquinite" : "Joaquinita"
+}

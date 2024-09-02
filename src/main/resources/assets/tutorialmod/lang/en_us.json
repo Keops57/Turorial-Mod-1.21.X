@@ -1,0 +1,23 @@
+{
+  "item.tutorialmod.ace_of_spades": "Ace of spades",
+  "item.tutorialmod.sus": "SUS",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.blackinator": "Blackinator",
+
+  "block.tutorialmod.casino_carpet_block": "Casino Carpet",
+  "block.tutorialmod.sus_block": "SUS 3D",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+
+  "item.tutorialmod.raw_joaquinite": "Raw Joaquinite",
+  "item.tutorialmod.joaquinite": "Joaquinite",
+  "block.tutorialmod.joaquinite_block": "Joaquinite Block",
+  "block.tutorialmod.joaquinite_ore": "Joaquinite Ore",
+  "block.tutorialmod.deepslate_joaquinite_ore": "Deepslate Joaquinite Ore",
+
+  "itemgroup.tutorialmod.casino_items" : "Casino Items",
+  "itemgroup.tutorialmod.casino_blocks" : "Casino Blocks",
+  "itemgroup.tutorialmod.joaquinite" : "Joaquinite"
+
+
+}

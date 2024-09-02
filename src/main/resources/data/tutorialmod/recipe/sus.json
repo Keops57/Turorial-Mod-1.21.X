@@ -1,0 +1,13 @@
+{
+  "type" : "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:sus_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "tutorialmod:sus"
+  }
+}
